@@ -54,14 +54,14 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/altius-logo-tx-2.png"
+                  src="/images/logo/altius-logo-3.png"
                   alt="logo"
                   width={140}
                   height={30}
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/images/logo/altius-logo-tx-2.png"
+                  src="/images/logo/altius-logo-3.png"
                   alt="logo"
                   width={140}
                   height={30}
