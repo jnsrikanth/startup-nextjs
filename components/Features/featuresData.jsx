@@ -70,7 +70,7 @@ const featuresData = [
         <rect width="28" height="28" rx="1" />
       </svg>
     ),
-    title: "Tech Savvy Founders"
+    title: "Tech Savvy Founders",
     paragraph:
       "Our founders are experts in technology and enterprise, with experience at Microsoft, Google, and IBM. They invest in innovative and disruptive businesses.",
   },
