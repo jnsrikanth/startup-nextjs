@@ -13,6 +13,7 @@ const featuresData = [
     title: "Expert Team",
     paragraph:
       "Our professionals have deep experience and skills in private equity investing and value creation",
+  },
   {
     id: 1,
     icon: (
