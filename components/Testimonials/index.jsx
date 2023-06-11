@@ -7,7 +7,7 @@ const testimonialData = [
     name: "Musharof Chy",
     designation: "Founder @TailGrids",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Altius PE Holdings is a trusted partner that delivers impressive financial returns while aligning with our values as a responsible investor. Highly recommended!",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -16,7 +16,7 @@ const testimonialData = [
     name: "Devid Weilium",
     designation: "Founder @UIdeck",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Working with Altius PE Holdings has been a game-changer. Their industry knowledge and strategic insights have helped us unlock new growth opportunities while prioritizing ESG considerations.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
@@ -25,7 +25,7 @@ const testimonialData = [
     name: "Lethium Frenci",
     designation: "Founder @Lineicons",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Altius PE Holdings combines attractive financial returns with a commitment to ESG principles. They are true partners in my success as a socially conscious investor.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
