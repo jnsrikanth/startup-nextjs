@@ -34,6 +34,35 @@ const AboutSectionOne = () => {
                 mb="44px"
               />
 
+<div class="container mx-auto px-4 py-8">
+  <h2 class="text-3xl font-bold mb-4">Our Commitments</h2>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div class="bg-white rounded-lg shadow-lg p-6">
+      <h3 class="text-xl font-bold mb-2">Diversity, Equity, and Inclusion</h3>
+      <p class="text-gray-700">
+        We foster a diverse and inclusive environment, embracing the power of varied perspectives and experiences to drive innovation, foster collaboration, and achieve better outcomes for all.
+      </p>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-lg p-6">
+      <h3 class="text-xl font-bold mb-2">Environmental Sustainability</h3>
+      <p class="text-gray-700">
+        We are committed to promoting environmental sustainability in our operations and investments. Through responsible practices and strategic partnerships, we strive to create a greener future and contribute to a thriving planet.
+      </p>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-lg p-6">
+      <h3 class="text-xl font-bold mb-2">Innovation</h3>
+      <p class="text-gray-700">
+        We cultivate a culture of innovation, encouraging entrepreneurial thinking and creative exploration. By embracing new ideas and technologies, we stay at the forefront of industry trends, driving growth and delivering exceptional results for our portfolio companies and investors.
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
               <div
                 className="wow fadeInUp mb-12 max-w-[570px] lg:mb-0"
                 data-wow-delay=".15s"
