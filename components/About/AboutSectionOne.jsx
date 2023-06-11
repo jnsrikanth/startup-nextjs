@@ -47,12 +47,6 @@ const AboutSectionOne = () => {
                     <List text="Innovation" />
                     <p>We cultivate a culture of innovation, encouraging entrepreneurial thinking and creative exploration. By embracing new ideas and technologies, we stay at the forefront of industry trends, driving growth and delivering exceptional results for our portfolio companies and investors.</p>
                   </div>
-
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
-                  </div>
                 </div>
               </div>
             </div>
