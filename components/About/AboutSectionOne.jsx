@@ -40,7 +40,8 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
+                    <List text="Diversity, Equity and Inclusion" />
+                    <p>We foster a diverse and inclusive environment, embracing the power of varied perspectives and experiences to drive innovation, foster collaboration, and achieve better outcomes for all.</p>
                     <List text="Tailwind CSS" />
                     <List text="Use for lifetime" />
                   </div>
