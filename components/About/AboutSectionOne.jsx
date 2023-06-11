@@ -83,7 +83,7 @@ const AboutSectionOne = () => {
       </div>
     </div>
   </div>
-</div>
+
 
 
 
@@ -101,6 +101,10 @@ const AboutSectionOne = () => {
                 />
               </div>
             </div>
+
+            </div>
+
+
           </div>
         </div>
       </div>
