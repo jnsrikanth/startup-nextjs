@@ -10,7 +10,7 @@ const blogData = [
       image: "/images/blog/author-01.png",
       designation: "Graphic Designer",
     },
-    tags: ["creative"],
+    tags: ["Private Equity"],
     publishDate: "2025",
   },
   {
@@ -24,7 +24,7 @@ const blogData = [
       image: "/images/blog/author-02.png",
       designation: "Content Writer",
     },
-    tags: ["computer"],
+    tags: ["Growth"],
     publishDate: "2025",
   },
   {
@@ -38,7 +38,7 @@ const blogData = [
       image: "/images/blog/author-03.png",
       designation: "Graphic Designer",
     },
-    tags: ["design"],
+    tags: ["Value"],
     publishDate: "2025",
   },
 ];
