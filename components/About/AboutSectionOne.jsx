@@ -42,8 +42,10 @@ const AboutSectionOne = () => {
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
                     <List text="Diversity, Equity and Inclusion" />
                     <p>We foster a diverse and inclusive environment, embracing the power of varied perspectives and experiences to drive innovation, foster collaboration, and achieve better outcomes for all.</p>
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Environmental Sustainability"/>
+                    <p>We are committed to promoting environmental sustainability in our operations and investments. Through responsible practices and strategic partnerships, we strive to create a greener future and contribute to a thriving planet.</p>
+                    <List text="Innovation" />
+                    <p>We cultivate a culture of innovation, encouraging entrepreneurial thinking and creative exploration. By embracing new ideas and technologies, we stay at the forefront of industry trends, driving growth and delivering exceptional results for our portfolio companies and investors.</p>
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
