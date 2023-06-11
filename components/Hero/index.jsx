@@ -18,7 +18,7 @@ const Hero = () => {
                  Creating Value through Private Equity
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Altius PE Holdings is a private equity firm that partners with visionary entrepreneurs and management teams to build innovative and impactful businesses. 
+                Altius PE Holdings is a leading private equity and financial services company that drives positive change through ESG-driven investment strategies, while delivering exceptional returns for our stakeholders.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
