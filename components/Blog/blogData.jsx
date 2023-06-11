@@ -1,9 +1,9 @@
 const blogData = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Navigating the Changing Landscape of Private Equity Investments",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      " Gain valuable insights into the evolving dynamics of private equity investments and learn how to identify new opportunities in today's ever-changing market.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",
@@ -15,9 +15,9 @@ const blogData = [
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Unlocking Growth Potential: Strategies for Successful Portfolio Management",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Discover effective strategies for managing and maximizing the growth potential of your investment portfolio, from optimizing operational efficiencies to capitalizing on emerging market trends.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Musharof Chy",
@@ -29,9 +29,9 @@ const blogData = [
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "Driving Value Creation in Private Equity: Key Considerations for Investors",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Explore the essential factors that drive value creation in private equity investments, including strategic planning, operational improvements, and fostering strong partnerships with portfolio companies.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
