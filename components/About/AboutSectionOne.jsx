@@ -28,6 +28,11 @@ const AboutSectionOne = () => {
                 paragraph="Altius PE Holdings is committed to investing in companies that prioritize environmental, social and governance (ESG) factors. Their innovative approach to private equity investing ensures that they are always at the forefront of industry trends."
                 mb="44px"
               />
+              <SectionTitle
+                title="Our Mission Statement:"
+                paragraph="At Altius PE Holdings our mission is to actively contribute to a sustainable and inclusive future by investing in companies that demonstrate strong environmental, social, and governance (ESG) practices. We strive to generate superior financial returns while aligning our investments with the principles of responsible investing. By leveraging our expertise, networks, and resources, we aim to unlock the potential of businesses and drive long-term value creation. Through our commitment to ESG-driven investment strategies, we aspire to make a meaningful impact on society, the environment, and the global economy."
+                mb="44px"
+              />
 
               <div
                 className="wow fadeInUp mb-12 max-w-[570px] lg:mb-0"
