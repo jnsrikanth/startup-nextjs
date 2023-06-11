@@ -33,52 +33,60 @@ const AboutSectionOne = () => {
                 paragraph="At Altius PE Holdings our mission is to actively contribute to a sustainable and inclusive future by investing in companies that demonstrate strong environmental, social, and governance (ESG) practices. We strive to generate superior financial returns while aligning our investments with the principles of responsible investing. By leveraging our expertise, networks, and resources, we aim to unlock the potential of businesses and drive long-term value creation. Through our commitment to ESG-driven investment strategies, we aspire to make a meaningful impact on society, the environment, and the global economy."
                 mb="44px"
               />
+              </div>
 
-<div class="container mx-auto px-4 py-8">
+
+
+  <div class="container mx-auto px-4 py-8">
   <h2 class="text-3xl font-bold mb-4">Our Commitments</h2>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-    <div class="rounded-lg shadow-lg p-6">
-      <h3 class="text-xl font-bold mb-2">Diversity, Equity, and Inclusion</h3>
-      <p>
-        We foster a diverse and inclusive environment, embracing the power of varied perspectives and experiences to drive innovation, foster collaboration, and achieve better outcomes for all.
-      </p>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="rounded-lg shadow-lg p-6 flex items-center">
+      <div class="mr-4">
+        <svg class="w-6 h-6 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm2 17h-4v-4H7v-2h3.25V8h2.5v5H15v2h-2v4z" />
+        </svg>
+      </div>
+      <div>
+        <h3 class="text-xl font-bold mb-2">Diversity, Equity, and Inclusion</h3>
+        <p>
+          We foster a diverse and inclusive environment, embracing the power of varied perspectives and experiences to drive innovation, foster collaboration, and achieve better outcomes for all.
+        </p>
+      </div>
     </div>
 
-    <div class="rounded-lg shadow-lg p-6">
-      <h3 class="text-xl font-bold mb-2">Environmental Sustainability</h3>
-      <p>
-        We are committed to promoting environmental sustainability in our operations and investments. Through responsible practices and strategic partnerships, we strive to create a greener future and contribute to a thriving planet.
-      </p>
+    <div class="rounded-lg shadow-lg p-6 flex items-center">
+      <div class="mr-4">
+        <svg class="w-6 h-6 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H8v-2h3V8h2v6h3v2h-3v4h-2v-4z" />
+        </svg>
+      </div>
+      <div>
+        <h3 class="text-xl font-bold mb-2">Environmental Sustainability</h3>
+        <p>
+          We are committed to promoting environmental sustainability in our operations and investments. Through responsible practices and strategic partnerships, we strive to create a greener future and contribute to a thriving planet.
+        </p>
+      </div>
     </div>
 
-    <div class="rounded-lg shadow-lg p-6">
-      <h3 class="text-xl font-bold mb-2">Innovation</h3>
-      <p>
-        We cultivate a culture of innovation, encouraging entrepreneurial thinking and creative exploration. By embracing new ideas and technologies, we stay at the forefront of industry trends, driving growth and delivering exceptional results for our portfolio companies and investors.
-      </p>
+    <div class="rounded-lg shadow-lg p-6 flex items-center">
+      <div class="mr-4">
+        <svg class="w-6 h-6 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M19 11c.55 0 1 .45 1 1v8c0 .55-.45 1-1 1H5c-.55 0-1-.45-1-1v-8c0-.55.45-1 1-1h2V8c0-2.76 2.24-5 5-5s5 2.24 5 5v2h2zm-7 9c-2.76 0-5-2.24-5-5v-2h10v2c0 2.76-2.24 5-5 5zm0-11c-1.65 0-3 1.35-3 3v2h6v-2c0-1.65-1.35-3-3-3zm-1 3h-2v2H8v-2H6V9h2V7h2v2h2v2z" />
+        </svg>
+      </div>
+      <div>
+        <h3 class="text-xl font-bold mb-2">Innovation</h3>
+        <p>
+          We foster a culture of innovation, encouraging entrepreneurial thinking and creative exploration. By embracing new ideas and technologies, we stay at the forefront of industry trends, driving growth and delivering exceptional results.
+        </p>
+      </div>
     </div>
   </div>
 </div>
 
 
 
-              <div
-                className="wow fadeInUp mb-12 max-w-[570px] lg:mb-0"
-                data-wow-delay=".15s"
-              >
-                <div className="mx-[-12px] flex flex-wrap">
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Diversity, Equity and Inclusion" />
-                    <p>We foster a diverse and inclusive environment, embracing the power of varied perspectives and experiences to drive innovation, foster collaboration, and achieve better outcomes for all.</p>
-                    <List text="Environmental Sustainability"/>
-                    <p>We are committed to promoting environmental sustainability in our operations and investments. Through responsible practices and strategic partnerships, we strive to create a greener future and contribute to a thriving planet.</p>
-                    <List text="Innovation" />
-                    <p>We cultivate a culture of innovation, encouraging entrepreneurial thinking and creative exploration. By embracing new ideas and technologies, we stay at the forefront of industry trends, driving growth and delivering exceptional results for our portfolio companies and investors.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
 
             <div className="w-full px-4 lg:w-1/2">
               <div
