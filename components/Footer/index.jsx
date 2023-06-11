@@ -189,7 +189,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Copyright &copy 2023 Altius PE Holdings. All rights reserved.</a>
+              Copyright &copy 2023 Altius PE Holdings. All rights reserved.
             </p>
           </div>
         </div>
