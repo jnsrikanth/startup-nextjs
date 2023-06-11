@@ -5,7 +5,7 @@ const NewsLatterBox = () => {
       data-wow-delay=".2s"
     >
       <h3 className="mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
-        Stay Informed:Subscribe to receive future updates
+        Stay Informed: <br/> Subscribe to receive future updates
       </h3>
       <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base font-medium leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
         Be the first to know about our latest investments, industry insights, and upcoming events. Subscribe to our newsletter for regular updates delivered straight to your inbox
