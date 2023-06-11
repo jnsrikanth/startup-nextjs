@@ -6,8 +6,8 @@ const Blog = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Blog Grid"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Insights & Perspectives: Exploring the World of Private Equity"
+        description="Gain valuable industry insights, expert perspectives, and emerging trends in the dynamic realm of private equity. Stay informed, make informed decisions, and navigate the intricacies of this thriving investment landscape with our concise and informative blog."
       />
 
       <section className="pt-[120px] pb-[120px]">
